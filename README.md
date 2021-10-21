@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá, me chamo Ricardo Arnaud, e dei o primeiro passo para Inclusão de Business Intelligence no Laboratório Químico Farmacêutico do Exéricto.
+No momento sou 3º Sargento do Exército Brasileiro, formado em Administração de Empresas pela Faculdade Estácio atuando na Equipe de Planejamento, Controle e Apoio Logístico do Laboratório Químico Farmacêutico do Exército.
 
-<!--
-**ricardoarnaud/ricardoarnaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente trabalho com analises de dados estatísticos de produção, mão de obra, projeção de recursos, aquisição e manutenção de insumos farmacêuticos e controle de Estoque para produção de Fármacos entre eles o  Micofenolato de Sódio 180mg e 360mg importantíssimo medicamento para tratamento de transplantados, Rifampicina 300mg importante antibióitico para tratamento de hanseníase, tuberculose e brucelose.
 
-Here are some ideas to get you started:
+Atuando no mercado Farmacêutico a mais de 9 anos, com larga experiência em sistemas de informação minhas skills são:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 1. Pensamento Analítico
+### 2. Ferramentas como:
+###    Excel - Formulas avançadas - Manipulação de códigos em VBA e criação de Dashboards
+###    PowerBI 
+###    PowerQuery
+###    PowerPoint - Elaboração de apresentações com funções avançadas
+### 4. SQL - tratamento de banco de dados
+### 5. Python - pyautogui - pandas - matplotlib - web scrapping
+### 6. Storytelling with data 
+
+Conheça meu Linkedin: www.linkedin.com/in/ricardo-braga-arnaud
