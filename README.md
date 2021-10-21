@@ -5,14 +5,14 @@ Atualmente trabalho com analises de dados estatísticos de produção, mão de o
 
 Atuando no mercado Farmacêutico a mais de 9 anos, com larga experiência em sistemas de informação minhas skills são:
 
-### 1. Pensamento Analítico
-### 2. Ferramentas como:
-###    Excel - Formulas avançadas - Manipulação de códigos em VBA e criação de Dashboards
-###    PowerBI 
-###    PowerQuery
-###    PowerPoint - Elaboração de apresentações com funções avançadas
-### 4. SQL - tratamento de banco de dados
-### 5. Python - pyautogui - pandas - matplotlib - web scrapping
-### 6. Storytelling with data 
+1. Pensamento Analítico
+2. Ferramentas como:
+     Excel - Formulas avançadas - Manipulação de códigos em VBA e criação de Dashboards
+     PowerBI 
+     PowerQuery
+      PowerPoint - Elaboração de apresentações com funções avançadas
+3. SQL - tratamento de banco de dados
+4. Python - pyautogui - pandas - matplotlib - web scrapping
+5. Storytelling with data 
 
 Conheça meu Linkedin: www.linkedin.com/in/ricardo-braga-arnaud
